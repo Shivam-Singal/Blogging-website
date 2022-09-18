@@ -21,7 +21,7 @@
 **_View the Articles_**
 
 <div align='center'>
-  <img src='./media/screenshots/article.png' alt='Article Details' />
+  <img src='./media/screenshots/article.jpeg' alt='Article Details' />
 </div><br>
 
 **_View an Authors Articles_**
