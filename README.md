@@ -52,7 +52,7 @@
 **_Secret Admin Panel to Manage Users and Articles_**
 
 <div align='center'>
-  <img src='./media/screenshots/admin.png' alt='Admin Panel' />
+  <img src='./media/screenshots/admin.jpeg' alt='Admin Panel' />
 </div><br>
 
 
