@@ -65,11 +65,5 @@
 
 
 
-## Technologies Used
 
-- Python
-- Django
-- SQL Database
-- Django Crispy Forms
-- Pillow Image Management
 
