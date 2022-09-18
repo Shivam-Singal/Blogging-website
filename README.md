@@ -2,13 +2,6 @@
 
 <img src='./media/screenshots/blog.png' alt='All Articles' />
 
-## About
-
-This app was created following [Corey Schafer's](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) tutorial!
-
-## Live Demo
-
-[View the Live Demo](https://andrewbaldwin-django-blogger.herokuapp.com/)
 
 ## Features
 
@@ -67,24 +60,10 @@ This app was created following [Corey Schafer's](https://www.youtube.com/watch?v
   <img src='./media/screenshots/admin.png' alt='Admin Panel' />
 </div><br>
 
-## Deploy the Project
 
-__Clone the repo to your local machine using the terminal__:
-```
-$ git clone git@github.com:andrewbaldwin44/Django_Blog.git
 ```
 
-__Deploy the Development Server__:
-1. Move into the project directory `cd django_blog`
-2. Create a virtual environment: `python3 -m venv project_env`
-3. Activate the virtual environment: `source project_env/bin/activate`
-4. Install the dependencies: `pip install -r requirements.txt`
-5. Start the development server: `python manage.py runserver `
 
-This will run the app in the development mode.<br />
-Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
-
-The page will reload if you make edits.
 
 ## Technologies Used
 
@@ -94,8 +73,3 @@ The page will reload if you make edits.
 - Django Crispy Forms
 - Pillow Image Management
 
-## Author
-
-👤 **Andrew Baldwin**
-
-- Github: [@andrewbaldwin44](https://github.com/andrewbaldwin44)
