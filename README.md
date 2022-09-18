@@ -36,11 +36,6 @@
   <img src='./media/screenshots/article_creation.png' alt='Article Creation' height='420px' />
 </div><br>
 
-**_Articles are Paginated_**
-
-<div align='center'>
-  <img src='./media/screenshots/pagination.png' alt='Article Pagination' />
-</div><br>
 
 **_Article Author can Edit or Delete Their Article_**
 
