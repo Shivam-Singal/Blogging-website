@@ -1,6 +1,6 @@
 # Blogging-website# Django Blog App
 
-<img src='./media/screenshots/blog.png' alt='All Articles' />
+<img src='./media/screenshots/blog.jpeg' alt='All Articles' />
 
 
 ## Features
